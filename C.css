@@ -1,0 +1,16 @@
+@charset "utf-8";
+/* CSS Document */
+
+input {
+	background-color: #D3D3D3;
+	border-color: #D3D3D3;
+}
+
+textarea {
+border-color: black ;
+}
+
+
+form {
+	font-size: 200% ;
+}
